@@ -1,0 +1,7 @@
+EDA -- Web scraping (getting data from imdb dataset)
+Fitting the models (Logistic Regression, kNN, Random Forest) 
+	Training and testing data
+	Validation and testing data
+Metrics Evaluation
+Visualization
+Business Insights
